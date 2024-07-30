@@ -10,8 +10,9 @@ This is an index for blogs related to Internet, Chrome, and Browsers.
 
 If you wish to open these in a new tab, Press `CTRL+click`
 
-| S.N. | Topic |
-| ---- | ----- |
+| S.N. | Topic                                                                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.   | [Everything we know about Chrome Dino Game: From Game Mechanics to the Hacks](https://github.com/pragyaasapkota/Internet-Chrome-and-Browsers/blob/main/README.md) |
 
 Thank you!!
 
